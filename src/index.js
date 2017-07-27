@@ -1,3 +1,4 @@
+
 const flattenArray = ([first, ...remaining], accumulator) =>
   (first === undefined) ?
     accumulator :
